@@ -50,7 +50,7 @@ print(" ")#imprime un espacio vacio
 
 thistuple = tuple(("jumanji 1", "jumanji 2", "spiderman 3", "cars 1", "cars 2"))#crea una lista tuple
 
-print("estas son las mejores peliculas de spiderman:")
+print("estas son las mejores peliculas para ver en familia:")
 
 print(thistuple)#imprime la lista
 print(" ")#imprime un espacio vacio
